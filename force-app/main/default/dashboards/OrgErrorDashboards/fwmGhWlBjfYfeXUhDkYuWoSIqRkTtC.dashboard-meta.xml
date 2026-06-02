@@ -313,8 +313,6 @@
     </dashboardGridLayout>
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <owner>dmitry@inbox.scratch</owner>
-    <runningUser>dmitry@inbox.scratch</runningUser>
     <textColor>#000000</textColor>
     <title>Org Errors Overview</title>
     <titleColor>#000000</titleColor>
