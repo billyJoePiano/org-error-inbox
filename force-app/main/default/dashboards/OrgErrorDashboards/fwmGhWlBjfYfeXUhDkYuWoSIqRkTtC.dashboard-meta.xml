@@ -313,7 +313,6 @@
     </dashboardGridLayout>
     <dashboardType>LoggedInUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <runningUserType>LoggedInUser</runningUserType>
     <textColor>#000000</textColor>
     <title>Org Errors Overview</title>
     <titleColor>#000000</titleColor>
