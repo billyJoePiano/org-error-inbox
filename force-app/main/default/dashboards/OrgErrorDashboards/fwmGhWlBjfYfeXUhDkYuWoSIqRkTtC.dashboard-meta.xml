@@ -313,7 +313,7 @@
     </dashboardGridLayout>
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <runningUser>LoggedInUser</runningUser>
+    <runningUserType>LoggedInUser</runningUserType>
     <textColor>#000000</textColor>
     <title>Org Errors Overview</title>
     <titleColor>#000000</titleColor>
