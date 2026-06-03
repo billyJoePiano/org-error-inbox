@@ -313,7 +313,6 @@
     </dashboardGridLayout>
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <owner>william.anderson4@maryland.gov.mdfamli.developba</owner>
     <runningUser>william.anderson4@maryland.gov.mdfamli.developba</runningUser>
     <textColor>#000000</textColor>
     <title>Org Errors Overview</title>
